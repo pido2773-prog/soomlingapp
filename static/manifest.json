@@ -1,0 +1,15 @@
+{
+  "name": "SoomlingGram",
+  "short_name": "SoomlingGram",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a1a2e",
+  "theme_color": "#ff6b6b",
+  "icons": [
+    {
+      "src": "https://emojiisland.com/cdn/shop/products/Emoji_Icon_-_Sakura_blossom_600x.png?v=1571606093",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
